@@ -1,3 +1,2 @@
-
-applications
-games
+#!/bin/bash
+ls -a
